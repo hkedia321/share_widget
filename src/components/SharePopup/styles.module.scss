@@ -1,0 +1,73 @@
+.checkbox > input[type="checkbox"] {
+  height: 1.5rem;
+  width: 2.8rem;
+  cursor: pointer;
+}
+.sharePopup {
+  width: 512px;
+  border: solid 1px #e5e7ea;
+  box-shadow: 2px 4px 5px 1px #eee;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.headerIcon {
+  margin-right: 20px;
+  margin-top: -10px;
+}
+
+.header {
+  display: flex;
+  padding: 12px;
+  padding-top: 18px;
+  border-bottom: solid 1px #eee;
+}
+
+.inviteBtn {
+  background-color: #f9fafb;
+  border-color: #ced4da;
+  color: #374151;
+}
+
+.mainHeading {
+  color: #111827;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.subHeading {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.switchContainer {
+  margin-left: auto;
+}
+
+.body {
+  padding: 12px;
+  padding-top: 20px;
+  border-bottom: solid 1px #eee;
+}
+
+.footer {
+  background-color: #f9fafb;
+  display: flex;
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.questionCircle {
+  margin-right: 5px;
+  color: #111;
+}
+
+.learnText {
+  align-self: center;
+  color: #6b7280;
+  margin-top: 5px;
+}
+
+.copyLinkBtn {
+  margin-left: auto;
+}

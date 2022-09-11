@@ -1,0 +1,24 @@
+.select__indicators {
+  display: none !important;
+}
+
+.select__control {
+  border-color: transparent !important;
+  box-shadow: none !important;
+  min-height: 50px !important;
+  background-color: #eeeeee !important;
+  margin-top: 6px;
+}
+
+.select__control:hover {
+  border-color: transparent !important;
+}
+
+.select__menu {
+  width: calc(100% + 82px) !important;
+  margin-top: 0px !important;
+}
+
+.select__menu-list {
+  padding-top: 0px !important;
+}

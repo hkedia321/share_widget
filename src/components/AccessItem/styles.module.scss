@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.container:last-child {
+  margin-bottom: 0px;
+}
+
+.mainHeading {
+  color: #111827;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.subHeading {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.icon {
+  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.accessList {
+  margin-left: auto;
+}
+
+.dropdownButton > button {
+  font-size: 12px;
+  vertical-align: middle;
+}
+
+.dropdownButton > button {
+  border-color: transparent !important;
+}
